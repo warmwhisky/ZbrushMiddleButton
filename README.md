@@ -42,4 +42,5 @@ Remove the previous version before installation of plugin.\
 https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/16
 
 ## Dec '13
-**MiddleButton_1_0_4R6.zip (11 KB)**
+**MiddleButton_1_0_4R6.zip (11 KB)**\
+https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802
