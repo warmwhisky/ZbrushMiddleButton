@@ -12,13 +12,7 @@ https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/196
 
 ## Mar '19
 **MiddleButton_1_6_4R7.zip (28.4 KB)**\
-https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/16
-
-## Feb '15
-Windows version of the plugin for ZB 4R7 x86, x64 in attachment.\
-Unzip to \ZStartup\ folder.\
-**MiddleButton_1_1_4R7.zip (23.5 KB)**\
-https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/16
+https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/54
 
 ## Jul '14
 First OS X version in attachment.\
@@ -29,6 +23,13 @@ https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/41
 All buttons are fixed.\
 **MiddleButton_1_4_4R6.zip (12.1 KB)**\
 https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/25
+
+
+## Feb '15
+Windows version of the plugin for ZB 4R7 x86, x64 in attachment.\
+Unzip to \ZStartup\ folder.\
+**MiddleButton_1_1_4R7.zip (23.5 KB)**\
+https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/83
 
 ## Feb '14
 1.3 - Reduced mouse wheel zoom step.\
