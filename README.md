@@ -27,7 +27,7 @@ https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/41
 
 ## Mar '14
 All buttons are fixed.\
-MiddleButton_1_4_4R6.zip (12.1 KB).\
+**MiddleButton_1_4_4R6.zip (12.1 KB)**\
 https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/25
 
 ## Feb '14
