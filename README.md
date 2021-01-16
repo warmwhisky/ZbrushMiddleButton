@@ -6,9 +6,9 @@ https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802
 ## Aug '20
 Presets applying fixed for 2021 (params doesn’t lost after restart now).\
 Doesn’t changed anything with MouseWheel, it’s works as intended (emulates Numpad +, Numpad -).\
-**MiddleButton_1_7_21.zip (11.8 KB)**
-
-Needs Microsoft Visual C++ 2008 Redistributable Package (x64) to work properly.
+**MiddleButton_1_7_21.zip (11.8 KB)**\
+Needs Microsoft Visual C++ 2008 Redistributable Package (x64) to work properly.\
+https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802/196
 
 ## Mar '19
 **MiddleButton_1_6_4R7.zip (28.4 KB)**\
