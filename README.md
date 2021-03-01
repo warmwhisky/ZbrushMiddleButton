@@ -1,6 +1,6 @@
 # ZbrushMiddleButton
 
-A central place to find all versions of MiddleButton found on Zbrush Central forum post middle-button-plug-in-for-zbrush-4r6\
+A central place to find all versions of MiddleButton found on Zbrush Central forum post by DENVI - middle-button-plug-in-for-zbrush-4r6
 https://www.zbrushcentral.com/t/middle-button-plug-in-for-zbrush-4r6/205802
 
 ## Aug '20
